@@ -1,6 +1,6 @@
 Introduction
 
-> Bonjour, nous sommes une multinationales spécialisées dans les kebabs et nous avons besoin de vous pour créer notre application de gestion de kebab.
+> Bonjour, nous sommes une startup spécialisées dans les kebabs et nous avons besoin de vous pour créer notre application de gestion de kebab.
 
 > Nous avons travaillé avec une précédente équipe qui nous a coûté très cher et le projet n'a pas abouti. Nous faisons appel à vous parce que vous êtes soucieux de la qualité du code. Nous comptons sur vous pour ne pas créer un enième legacy.
 
